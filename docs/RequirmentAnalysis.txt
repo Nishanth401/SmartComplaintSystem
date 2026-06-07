@@ -1,0 +1,35 @@
+# Requirement Analysis
+
+## Functional Requirements
+
+* User Registration and Login
+* Complaint Submission
+* Complaint Status Tracking
+* Complaint Categorization
+* Admin Dashboard
+* Complaint Assignment
+* Status Updates and Notifications
+* Report Generation
+
+## Non-Functional Requirements
+
+* User-friendly Interface
+* Secure Authentication
+* Fast Response Time
+* Reliable Data Storage
+* Scalability
+* Maintainability
+
+## Software Requirements
+
+* Java JDK 17+
+* Spring Boot
+* MySQL
+* VS Code
+* Git & GitHub
+
+## Hardware Requirements
+
+* Laptop/Desktop
+* Minimum 8 GB RAM
+* Internet Connection
