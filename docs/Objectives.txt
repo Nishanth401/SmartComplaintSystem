@@ -1,0 +1,9 @@
+# Objectives
+
+1. Provide an online platform for citizens to submit complaints.
+2. Allow users to track the status of their complaints.
+3. Enable administrators to manage and assign complaints.
+4. Improve communication between citizens and authorities.
+5. Ensure transparency in complaint resolution.
+6. Maintain a centralized database of complaints and resolutions.
+7. Generate reports for monitoring and analysis.
