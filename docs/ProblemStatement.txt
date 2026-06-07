@@ -1,0 +1,5 @@
+# Problem Statement
+
+Citizens often face difficulties in reporting public issues such as road damage, garbage accumulation, water leakage, and streetlight failures. Traditional complaint systems are slow, lack transparency, and do not provide proper tracking of complaint status.
+
+The Smart Public Complaint & Issue Tracking System aims to provide a digital platform where citizens can easily submit complaints, track their progress, and receive updates. Authorities can manage complaints efficiently, assign tasks to departments, and ensure timely resolution of public issues.
